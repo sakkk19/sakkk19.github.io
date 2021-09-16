@@ -1,0 +1,42 @@
+body {
+
+	background-color:lightblue;
+	font-size: 21px;
+	color: white;
+}
+
+#answer {
+	position: absolute;
+	bottom: 0;
+	right: 25px;
+	text-align: right;
+	border-top: 1.5px solid red;
+	padding-top: 25px;
+}
+#response{
+	color: black;
+	text-align: center;
+}
+
+#third {
+
+}
+
+#highlight {
+	color:red;
+	font-style: italic;
+}
+
+#physical {
+	background-color: black;
+	height: 100px;
+	width: 100px:
+	padding: 150px;
+	border-radius: 50%;
+	letter-spacing: 10px;
+	text-align: center;
+
+	opacity: .5;
+
+
+}
