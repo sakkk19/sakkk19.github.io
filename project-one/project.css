@@ -14,12 +14,22 @@ body {
     font-weight: 5pt;
 }
 .naur {
-    color: rgb(49, 9, 9);
+    text-emphasis: center;
+}
+.naur {
+    color: #DEFAE5;
     font-family: Lato, sans-serif, bold;
     font-size: 20px;
+    line-height:1.2;
     top: -10px;
     line-height: -1;
     z-index: 5;
+    background-color:#F88379;
+    background-size: 5%;
+    background-position: left center;
+    display: inline-flex;
+    padding: 25px;
+    margin-left: 170px;
 }
 .p1{
 font-size: 15px;
@@ -44,16 +54,4 @@ letter-spacing: 12pt;
     margin-top: 75;
     letter-spacing: 12pt;  
 
-}
-#rectangle {
-    width: 510px;
-    height: -70px;
-    background: #F88379;
-    position: absolute;
-    left: 200;
-    right:40;
-    top: 650;
-    margin-left: 155;
-    border-radius: 15%;
-    z-index: 3;
 }
