@@ -6,11 +6,20 @@
 }
 body {
     background:#DEFAE5;
+    
 }
 .yer {
     color:#0E491D;
     font-family: Lato;
     font-weight: 5pt;
+}
+.naur {
+    color: rgb(49, 9, 9);
+    font-family: Lato, sans-serif, bold;
+    font-size: 20px;
+    top: -10px;
+    line-height: -1;
+    z-index: 5;
 }
 .p1{
 font-size: 15px;
@@ -34,4 +43,17 @@ letter-spacing: 12pt;
     margin-left: -85;
     margin-top: 75;
     letter-spacing: 12pt;  
+
+}
+#rectangle {
+    width: 510px;
+    height: -70px;
+    background: #F88379;
+    position: absolute;
+    left: 200;
+    right:40;
+    top: 650;
+    margin-left: 155;
+    border-radius: 15%;
+    z-index: 3;
 }
