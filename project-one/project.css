@@ -28,7 +28,7 @@ body {
     background-size: 5%;
     background-position: left center;
     display: inline-flex;
-    padding: 25px;
+    padding: 28px;
     margin-left: 170px;
 }
 .p1{
@@ -55,3 +55,80 @@ letter-spacing: 12pt;
     letter-spacing: 12pt;  
 
 }
+.p1device {
+    font-size: 12px;
+    color:#F88379;
+    font-family: Roboto Mono, bold;
+    margin-left: -85;
+    margin-top: -650;
+    letter-spacing: 5pt;  
+    
+}
+.p2device {
+    font-size: 12px;
+    color:#F88379;
+    font-family: Roboto Mono, bold;
+    margin-left: -85;
+    margin-top: 33;
+    letter-spacing: 5pt;  
+    
+}
+.f1device {
+    font-size: 12px;
+    color:#F88379;
+    font-family: Roboto Mono, bold;
+    margin-left: -85;  
+    margin-top: 75;
+    letter-spacing: 5pt; 
+}
+.link1 a:link {
+    color:#082C11;
+    position: absolute;
+    top: 1070;
+    left: 245;
+    letter-spacing: 5pt;
+    font-family: Roboto Mono, bold;
+  }
+  
+.link1 a:visited {
+    color:#082C11;
+  }
+  
+  .link1 a:hover {
+    color:#F88379;
+  
+  }
+  .link2 a:link {
+    color:#082C11;
+    position: absolute;
+    top: 1295;
+    left: 245;
+    letter-spacing: 5pt;
+    font-family: Roboto Mono, bold;
+  }
+  
+.link2 a:visited {
+    color:#082C11;
+  }
+  
+  .link2 a:hover {
+    color:#F88379;
+  
+  }
+  .link3 a:link {
+    color:#082C11;
+    position: absolute;
+    top: 1568;
+    left: 245;
+    letter-spacing: 5pt;
+    font-family: Roboto Mono, bold;
+  }
+  
+.link3 a:visited {
+    color:#082C11;
+  }
+  
+  .link3 a:hover {
+    color:#F88379;
+  
+  }
