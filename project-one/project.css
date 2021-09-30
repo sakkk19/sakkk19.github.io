@@ -131,4 +131,23 @@ letter-spacing: 12pt;
   .link3 a:hover {
     color:#F88379;
   
+ 
+ }
+  .img1 {
+    position: absolute;
+    top: 730;
+    left: 420;
+  }
+  .img2 {
+    position: absolute;
+    top: 1000;
+    left: 420;
+    
+    
+  }
+  .img3 {
+    position: absolute;
+    top: 1291;
+    left: 420;
+
   }
