@@ -1,0 +1,117 @@
+*{
+    margin-top: -25;
+    margin-left: -40;
+    margin-right: 30;
+    padding: 90;  
+}
+body {
+    background:#d7dfe2;
+}
+.masjid1 {
+    position: absolute;
+    top: 330;
+    z-index: -1;
+    right: 50;
+}
+.masjid2 {
+    position: absolute;
+    top: 330;
+    z-index: -1;
+    right: 467;
+}
+.masjid3 {
+    position: absolute;
+    top: 330;
+    z-index: -1;
+    left: -225;
+}
+.masjid4 {
+    position: absolute;
+    top: 330;
+    z-index: -2;
+    right: -420;
+}
+.masjid5 {
+    position: absolute;
+    top: 920;
+    z-index: -2;
+    left: -275;
+  }
+.masjid6 {
+    position: absolute;
+    top: 920;
+    z-index: -3;
+    left: 153;
+}
+.masjid7 {
+    position: absolute;
+    top: 920;
+    z-index: -4;
+    left: 430;
+}
+.masjid8 {
+    position: absolute;
+    top: 920;
+    z-index: -4;
+    right: -430;
+    image-orientation: flip;
+}
+.places {
+    position: absolute;
+    top: 1520;
+    z-index: -4;
+    left: -275;
+}
+.places2 {
+    position: absolute;
+    top: 1520;
+    z-index: -4;
+    left: 204;
+}
+.title {
+    font-family: Fira Sans;
+    color: white;
+    font-size: 160pt;
+    text-transform: uppercase;
+    left: -70;
+    position: absolute;
+}
+
+.title2 {
+    font-family: Fira Sans;
+    color: white;
+    font-size: 160pt;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    position: absolute;
+    top: 330;
+    left: -62;
+    font-weight: bold;
+}
+.head1 {
+    font-family: Ubuntu;
+    color: white;
+    position: absolute;
+    top: 1600;
+    font-size: 20pt;
+}
+.head2 {
+    font-family: Ubuntu;
+    color: white;
+    position: absolute;
+    top: 1650;
+    font-size: 20pt;
+}
+.head3 {
+    font-family: Ubuntu;
+    color: white;
+    position: absolute;
+    top: 1700;
+    font-size: 20pt;
+  }
+.masjid1 {
+    position: absolute;
+    top: 330;
+}
+
+  
