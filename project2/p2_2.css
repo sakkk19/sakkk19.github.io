@@ -62,11 +62,71 @@ body {
     z-index: -4;
     left: -275;
 }
-.places2 {
+.places3 {
     position: absolute;
     top: 1520;
     z-index: -4;
     left: 204;
+}
+.places2 {
+    position: absolute;
+    top: 1520;
+    z-index: -2;
+    right: -14;
+}
+.places4 {
+    position: absolute;
+    top: 1520;
+    z-index: -2;
+    right: -430;
+}
+.places5 {
+    position: absolute;
+    top: 2120;
+    z-index: -2;
+    left: -170;
+}
+.places6 {
+    position: absolute;
+    top: 2120;
+    z-index: -2;
+    left: 204;
+}
+.places7 {
+    position: absolute;
+    top: 2120;
+    z-index: -2;
+    left: 633;
+}
+.places8 {
+    position: absolute;
+    top: 2120;
+    z-index: -2;
+    right: -430;
+}
+.last1 {
+    position: absolute;
+    top: 2720;
+    z-index: -2;
+    left: -315;
+}
+.last2 {
+    position: absolute;
+    top: 2720;
+    z-index: -2;
+    left: 204;
+}
+.last3 {
+    position: absolute;
+    top: 2720;
+    z-index: -2;
+    left: 633;
+}
+.last4 {
+    position: absolute;
+    top: 2720;
+    z-index: -2;
+    right: -430;
 }
 .title {
     font-family: Fira Sans;
@@ -92,26 +152,67 @@ body {
     font-family: Ubuntu;
     color: white;
     position: absolute;
-    top: 1600;
+    top: 3500;
     font-size: 20pt;
+    left: 810;
 }
 .head2 {
     font-family: Ubuntu;
     color: white;
     position: absolute;
-    top: 1650;
+    top: 3785;
     font-size: 20pt;
+    left: 810;
 }
 .head3 {
     font-family: Ubuntu;
     color: white;
     position: absolute;
-    top: 1700;
+    top: 4070;
     font-size: 20pt;
+    left: 810;
+
   }
-.masjid1 {
+
+.prayermat {
     position: absolute;
-    top: 330;
+    top: 3260;
+    left: 72;
+}
+
+#link1 a:link {
+    color: white;
+    font-size: 25px;
+    font-family: Ubuntu;
+    letter-spacing: 3pt;
+    position: absolute;
+    top: 5000;
+    left: 5;
+}
+#link1 a:visited {
+    color: #7F141E;
+}
+      
+#link1 a:hover {
+    color:white;
+      
+}
+#link2 a:link {
+    color: white;
+    font-size: 25px;
+    font-family: Ubuntu;
+    letter-spacing: 3pt;
+    position: absolute;
+    top: 5060;
+    left: 5;
+}
+#link2 a:visited {
+    color: #7F141E;
+}
+      
+#link2 a:hover {
+    color:white;
+      
 }
 
   
