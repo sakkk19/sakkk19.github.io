@@ -148,7 +148,7 @@ body {
     left: -62;
     font-weight: bold;
 }
-.head1 {
+#head1 {
     font-family: Ubuntu;
     color: white;
     position: absolute;
@@ -171,48 +171,614 @@ body {
     top: 4070;
     font-size: 20pt;
     left: 810;
+}
+#explain {
+    font-family: Ubuntu;
+    color: white;
+    position: absolute;
+    top: -36;
+    font-size: 20pt;
+    left: 200;
+}
 
+    #link-one a:link {
+        color: white;
+        font-size: 13px;
+        font-family: Ubuntu;
+        letter-spacing: 1pt;
+        position: absolute;
+        top: 3995;
+        left: 58px;
+        display:block;
+        
+    
+    }
+    
+
+    #link-one a:visited {
+        color:#0E5D7F;
+    }
+          
+    #link-one a:hover {
+        color:white;
+          
+    }
+    #link-two a:link {
+        color: #C1B259;
+        font-size: 13px;
+        font-family: Ubuntu;
+        letter-spacing: 1pt;
+        position: absolute;
+        top: 3995;
+        left: 300px;
+    }
+    #link-two a:visited {
+        color:  #C1B259;
+    }
+          
+    #link-two a:hover {
+        color: white;
+          
+    }
+    #link-three a:link {
+        color: #8C8080;
+        font-size: 13px;
+        font-family: Ubuntu;
+        letter-spacing: 1pt;
+        position: absolute;
+        top: 3995;
+        left: 560px;
+    }
+    #link-three a:visited {
+        color:  #8C8080;
+    }
+          
+    #link-three a:hover {
+        color: white;
+          
+    }
+
+    #link-four a:link {
+        color: #DD9C47;
+        font-size: 13px;
+        font-family: Ubuntu;
+        letter-spacing: 1pt;
+        position: absolute;
+        top: 3995;
+        left: 800px;
+    }
+    #link-four a:visited {
+        color: #DD9C47;
+    }
+          
+    #link-four a:hover {
+        color: white;
+          
+    }
+    #link-five a:link {
+        color: black;
+        font-size: 13px;
+        font-family: Ubuntu;
+        letter-spacing: 1pt;
+        position: absolute;
+        top: 3995;
+        left: 1120px;
+    }
+    #link-five a:visited {
+        color: black;
+    }
+          
+    #link-five a:hover {
+        color: white;
+
+
+
+
+          
+    }
+    #link-six a:link {
+        color: #C11B1B;
+        font-size: 13px;
+        font-family: Ubuntu;
+        letter-spacing: 1pt;
+        position: absolute;
+        top: 4650;
+        left: 58px;
+    }
+    #link-six a:visited {
+        color: #C11B1B;
+    }
+          
+    #link-six a:hover {
+        color: white;
+          
+    }
+    #link-seven a:link {
+        color: #442828;
+        font-size: 13px;
+        font-family: Ubuntu;
+        letter-spacing: 1pt;
+        position: absolute;
+        top: 4650;
+        left: 303px;
+    }
+    #link-seven a:visited {
+        color: #442828;
+    }
+          
+    #link-seven a:hover {
+        color: white;
+          
+    }
+    #link-eight a:link {
+        color: #0B420F;
+        font-size: 13px;
+        font-family: Ubuntu;
+        letter-spacing: 1pt;
+        position: absolute;
+        top: 4650;
+        left: 550px;
+    }
+    #link-eight a:visited {
+        color: #0B420F;
+    }
+          
+    #link-eight a:hover {
+        color: white;
+          
+    }
+    #link-nine a:link {
+        color: #DB6C2E;
+        font-size: 13px;
+        font-family: Ubuntu;
+        letter-spacing: 1pt;
+        position: absolute;
+        top: 4650;
+        left: 823px;
+    }
+    #link-nine a:visited {
+        color: #DB6C2E;
+    }
+          
+    #link-nine a:hover {
+        color: white;
+          
+    }
+    #link-ten a:link {
+        color: #420942;
+        font-size: 13px;
+        font-family: Ubuntu;
+        letter-spacing: 1pt;
+        position: absolute;
+        top: 4650;
+        left: 1060px;
+    }
+    #link-ten a:visited {
+        color: #420942;
+    }
+          
+    #link-ten a:hover {
+        color: white;
+      
+        
+
+
+
+
+
+    }
+    #link-eleven a:link {
+        color: #E0CB34;
+        font-size: 13px;
+        font-family: Ubuntu;
+        letter-spacing: 1pt;
+        position: absolute;
+        top: 5280;
+        left: 51px;
+    }
+    #link-eleven a:visited {
+        color: #E0CB34;
+    }
+          
+    #link-eleven a:hover {
+        color: white;
+          
+    }
+    #link-twelve a:link {
+        color: #474578;
+        font-size: 13px;
+        font-family: Ubuntu;
+        letter-spacing: 1pt;
+        position: absolute;
+        top: 5280;
+        left: 335px;
+    }
+    #link-twelve a:visited {
+        color: #474578;
+    }
+          
+    #link-twelve a:hover {
+        color: white;
+          
+    }
+    #link-thirteen a:link {
+        color: #06303F;
+        font-size: 13px;
+        font-family: Ubuntu;
+        letter-spacing: 1pt;
+        position: absolute;
+        top: 5280;
+        left: 575px;
+    }
+    #link-thirteen a:visited {
+        color: #06303F;
+    }
+          
+    #link-thirteen a:hover {
+        color: white;
+          
+    }
+    #link-fourteen a:link {
+        color: #AE26B2;
+        font-size: 13px;
+        font-family: Ubuntu;
+        letter-spacing: 1pt;
+        position: absolute;
+        top: 5280;
+        left: 870px;
+    }
+    #link-fourteen a:visited {
+        color: #AE26B2;
+    }
+          
+    #link-fourteen a:hover {
+        color: white;
+          
+    }
+    #link-fifteen a:link {
+        color: #895312;
+        font-size: 13px;
+        font-family: Ubuntu;
+        letter-spacing: 1pt;
+        position: absolute;
+        top: 5280;
+        left: 1085px;
+    }
+    #link-fifteen a:visited {
+        color: #895312;
+    }
+          
+    #link-fifteen a:hover {
+        color: white;
+      
+        
+
+
+
+
+
+
+    }
+    #link-sixteen a:link {
+        color: #DEAB70;
+        font-size: 13px;
+        font-family: Ubuntu;
+        letter-spacing: 1pt;
+        position: absolute;
+        top: 5925;
+        left: 60px;
+    }
+    #link-sixteen a:visited {
+        color: #DEAB70;
+    }
+          
+    #link-sixteen a:hover {
+        color: white;
+          
+    }
+    #link-seventeen a:link {
+        color: #279EBA;
+        font-size: 13px;
+        font-family: Ubuntu;
+        letter-spacing: 1pt;
+        position: absolute;
+        top: 5925;
+        left: 335px;
+    }
+    #link-seventeen a:visited {
+        color: #279EBA;
+    }
+          
+    #link-seventeen a:hover {
+        color: white;
+          
+    }
+    #link-eighteen a:link {
+        color: #E0596E;
+        font-size: 13px;
+        font-family: Ubuntu;
+        letter-spacing: 1pt;
+        position: absolute;
+        top: 5925;
+        left: 575px;
+    }
+    #link-eighteen a:visited {
+        color: #E0596E;
+    }
+          
+    #link-eighteen a:hover {
+        color: white;
+          
+    }
+    #link-nineteen a:link {
+        color: #4E5C21;
+        font-size: 13px;
+        font-family: Ubuntu;
+        letter-spacing: 1pt;
+        position: absolute;
+        top: 5925;
+        left: 840px;
+    }
+    #link-nineteen a:visited {
+        color: #4E5C21;
+    }
+          
+    #link-nineteen a:hover {
+        color: white;
+          
+    }
+    #link-twenty a:link {
+        color: #72BB6D;
+        font-size: 13px;
+        font-family: Ubuntu;
+        letter-spacing: 1pt;
+        position: absolute;
+        top: 5925;
+        left: 1070px;
+    }
+    #link-twenty a:visited {
+        color:#72BB6D;
+    }
+          
+    #link-twenty a:hover {
+        color: white;
+          
+    }
+
+
+
+
+
+
+
+
+
+
+.bluered {
+    position: absolute;
+    top: 3260px;
+    left: -140px;
+}
+.eleven {
+    position: absolute;
+    top: 3270px;
+    left: 90px;
+}
+.purple {
+    position: absolute;
+    top: 3260px;
+    left: 350px;
+}
+.blueyellow {
+    position: absolute;
+    top: 3270px;
+    left: 600px;
+}
+.blackbeige {
+    position: absolute;
+    top: 3270px;
+    left: 860px;
+
+
+
+
+
+
+
+
+}
+.six {
+    position: absolute;
+    top: 3900px;
+    left: -140px;
+}
+.seven {
+    position: absolute;
+    top: 3900px;
+    left: 90px;
+}
+.eight {
+    position: absolute;
+    top: 3900px;
+    left: 350px;
+}
+.nine {
+    position: absolute;
+    top: 3900px;
+    left: 600px;
+}
+.ten {
+    position: absolute;
+    top: 3900px;
+    left: 860px;
+
+
+
+
+
+
+
+}
+.five {
+    position: absolute;
+    top: 4530px;
+    left: -140px;
+}
+.twelve {
+    position: absolute;
+    top: 4530px;
+    left: 90px;
+}
+.thirteen {
+    position: absolute;
+    top: 4530px;
+    left: 350px;
+}
+.fourteen {
+    position: absolute;
+    top: 4540px;
+    left: 600px;
+}
+.fifteen {
+    position: absolute;
+    top: 4540px;
+    left: 860px;
+
+
+
+
+
+
+
+
+}
+.sixteen {
+    position: absolute;
+    top: 5190px;
+    left: -140px;
+}
+.seventeen {
+    position: absolute;
+    top: 5190px;
+    left: 90px;
+}
+.eighteen {
+    position: absolute;
+    top: 5190px;
+    left: 350px;
+}
+.nineteen {
+    position: absolute;
+    top: 5190px;
+    left: 600px;
+}
+.twenty {
+    position: absolute;
+    top: 5190px;
+    left: 860px;
+}
+
+
+
+
+
+.line {
+    border-bottom: 2px solid rgb(255, 250, 250);
+    display: block;
+    position: absolute;
+    top: 6608px;
+    left: 870px;
+    z-index: 1;
+   
+    }
+    .line2 {
+        border-bottom: 2px solid rgb(255, 250, 250);
+        display: block;
+        position: absolute;
+        top: 6965px;
+        left: 410px;
+        z-index: 1;
+       
+        }
+        .line3 {
+            border-bottom: 2px solid rgb(255, 250, 250);
+            display: block;
+            position: absolute;
+            top: 6915px;
+            left: 840px;
+            z-index: 1;
+           
+           /*  }
+            .line4 {
+                border-bottom: 2px solid rgb(255, 250, 250);
+                display: block;
+                position: absolute;
+                top: 6950px;
+                left: 870px;
+                z-index: 1; */
+ 
+
+  }             
+  .empty {
+    position: absolute;
+    top: 6689px;
+    left: 990px;
+    font-family: Ubuntu;
+    color: white;
+    z-index: 2;
+    font-size: 15px;
+    letter-spacing: 1.5pt;
   }
-
-.prayermat {
+  .directions {
     position: absolute;
-    top: 3260;
-    left: 72;
-}
-
-#link1 a:link {
-    color: white;
-    font-size: 25px;
+    top: 6972px;
+    left: 5px;
     font-family: Ubuntu;
-    letter-spacing: 3pt;
-    position: absolute;
-    top: 5000;
-    left: 5;
-}
-#link1 a:visited {
-    color: #7F141E;
-}
-      
-#link1 a:hover {
-    color:white;
-      
-}
-#link2 a:link {
     color: white;
-    font-size: 25px;
-    font-family: Ubuntu;
-    letter-spacing: 3pt;
+    z-index: 2;
+    font-size: 15px;
+    letter-spacing: 1.5pt;
+  }      
+  .mat {
     position: absolute;
-    top: 5060;
-    left: 5;
-}
-#link2 a:visited {
-    color: #7F141E;
-}
-      
-#link2 a:hover {
-    color:white;
-      
-}
+    top: 6990px;
+    left: 972px;
+    font-family: Ubuntu;
+    color: white;
+    z-index: 2;
+    font-size: 15px;
+    letter-spacing: 1.5pt;
+  }        
+            
+  .prayerroom {
+    top: 6070px;
+    left: -70px; 
+    position: absolute;
+    font-family: Fira Sans;
+    color: white;
+    font-size: 140pt;
+    letter-spacing: 5pt;
+    
+  }  
+  .prayerroom2 {
+    top: 6260px;
+    left: -70px; 
+    position: absolute;
+    font-family: Fira Sans;
+    color: white;
+    font-size: 140pt;
+    text-transform: uppercase;
+  }          
+            
+            
+            
+            
+            
+            
 
-  
+.room {
+    top: 6500px;
+    left: 350px;
+    position: absolute;
+
+}
